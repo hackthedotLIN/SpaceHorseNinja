@@ -3,6 +3,13 @@ body {
   padding: 0px;
 }
 
+#riders {
+  position: fixed;
+  padding: 20px 20px;
+  width: 20%;
+  left: 70%;
+}
+
 .overfill {
   background-image: url('http://7-themes.com/data_images/out/51/6946579-space-stars-background.jpg');
     position: fixed;
@@ -14,10 +21,10 @@ body {
     z-index: 0;
 }
 .content{
-    width:500px;
-    height:400px;
-    position:absolute;
-    left:50%;
-    top:50%;
-    margin:-150px 0 0 -250px;
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -150px 0 0 -250px;
 }
