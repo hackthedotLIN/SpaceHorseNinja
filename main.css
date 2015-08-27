@@ -20,6 +20,10 @@ body {
     left: 0px;
     z-index: 0;
 }
+h1{z-index: 1000;
+color:white;
+padding-left: 25px;
+font-family: Lobster}
 .content{
     width: 500px;
     height: 400px;
