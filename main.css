@@ -1,13 +1,15 @@
-body{margin 0px;
-padding:0px;}
+body {
+  margin: 0px;
+  padding: 0px;
+}
 
-.overfill{
-  background-image:url('http://7-themes.com/data_images/out/51/6946579-space-stars-background.jpg');
-    position:fixed;
+.overfill {
+  background-image: url('http://7-themes.com/data_images/out/51/6946579-space-stars-background.jpg');
+    position: fixed;
     background-size: cover;
-    width:100%;
-    height:100%;
-    top:0px;
-    left:0px;
-    z-index:0;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    z-index: 0;
 }
