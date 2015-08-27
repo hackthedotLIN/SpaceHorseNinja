@@ -13,3 +13,11 @@ body {
     left: 0px;
     z-index: 0;
 }
+.content{
+    width:500px;
+    height:400px;
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin:-150px 0 0 -250px;
+}
