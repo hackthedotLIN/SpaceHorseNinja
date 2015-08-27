@@ -6,8 +6,8 @@ body {
 #riders {
   position: fixed;
   padding: 20px 20px;
-  width: 20%;
-  left: 70%;
+  width: 50%;
+  left: 60%;
 }
 
 .overfill {
@@ -42,16 +42,21 @@ body {
 }
 #cowboy {
   z-index: 1000px;
-  padding-left: 75px;
+  padding-left: 80px;
   margin-top: -70px;
 }
-.btn {
-  display:       inline-block;
-  padding:       10px 22px;
+#kenny {
+  z-index: 1000px;
+  padding-left: 75px;
+  margin-top: -65px;
+}
+button{
+
   background:    #073763;
-  border-radius: 5px;
-  color:         #f00;
-  font:          normal 700 57px/1 "Calibri", sans-serif;
+color:white;
+font-size:25px;
+border: none;
+  font-family: Arial;
   text-align:    center;
-  text-shadow:   none;
+
 }
