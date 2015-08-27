@@ -1,5 +1,3 @@
-body{margin 0px;
-padding:0px;}
 
 .overfill{
   background-image:url('http://7-themes.com/data_images/out/51/6946579-space-stars-background.jpg');
@@ -10,4 +8,12 @@ padding:0px;}
     top:0px;
     left:0px;
     z-index:0;
+}
+.content{
+    width:500px;
+    height:400px;
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin:-150px 0 0 -250px;
 }
