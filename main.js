@@ -1,3 +1,5 @@
+$('.rider').hide();
+
 $('#ast-btn').click(function() {
   $('.rider').hide();
   $('#astronaut').show();
