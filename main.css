@@ -34,6 +34,7 @@ body {
   padding-left: 100px;
   margin-top: -50px;
 }
+
 #ninja {
   z-index: 1000px;
   padding-left: 100px;
@@ -44,11 +45,13 @@ body {
   padding-left: 75px;
   margin-top: -70px;
 }
-.btn {display:       inline-block;
-padding:       10px 22px;
-background:    #073763;
-border-radius: 5px;
-color:         #f00;
-font:          normal 700 57px/1 "Calibri", sans-serif;
-text-align:    center;
-text-shadow:   none;}
+.btn {
+  display:       inline-block;
+  padding:       10px 22px;
+  background:    #073763;
+  border-radius: 5px;
+  color:         #f00;
+  font:          normal 700 57px/1 "Calibri", sans-serif;
+  text-align:    center;
+  text-shadow:   none;
+}
